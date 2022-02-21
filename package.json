@@ -1,20 +1,29 @@
 {
-	"name": "videochat",
-	"version": "1.0.0",
-	"description": "",
-	"main": "index.js",
-	"scripts": {
-		"start": "node index.js",
-		"dev": "nodemon index.js"
-	},
-	"keywords": [],
-	"author": "",
-	"license": "ISC",
-	"dependencies": {
-		"cors": "^2.8.5",
-		"express": "^4.17.1",
-		"nodemon": "^2.0.7",
-		"serve": "^11.3.2",
-		"socket.io": "^4.0.0"
-	}
+  "name": "videochat",
+  "version": "1.0.0",
+  "description": "![Video Chat](https://i.ibb.co/7WZRLD1/122.jpg)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15",
+    "serve": "^13.0.2",
+    "socket.io": "^4.4.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clienterr1/videocall.git"
+  },
+  "bugs": {
+    "url": "https://github.com/clienterr1/videocall/issues"
+  },
+  "homepage": "https://github.com/clienterr1/videocall#readme"
 }
